@@ -1,0 +1,6 @@
+id = "deskthing-test-app"
+name = "DeskThing Test App"
+version = "1.0.0"
+author = "Hamza"
+description = "Simple DeskThing app that embeds a YouTube video"
+path = "dist"
